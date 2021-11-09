@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Sans-Serif;
+  background-color: #ECEFF6;
+}
+.top {
+  background-color: #3B5999;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding-left: 2px;
+  padding-top: 3px;
+  padding-bottom: 2px;
+}
+.details {
+  margin-top: 10px;
+  color: #969696;
+  font-weight: 600;
+  margin-left: 5px;
+}
+#numberEmail {
+  height: 40px;
+  width: 96%;
+  margin-left: 5px;
+  border: 1px solid #969696;
+}
+.btn {
+  margin-left: 5px;
+  width: 96%;
+  margin-top: 10px;
+  height: 40px;
+  background-color: #4167B2;
+  border: 1px solid #33508a;
+  color: white;
+}
+.or {
+  text-align: center;
+}
+.hr1 {
+  width: 45%;
+  position: absolute;
+  top: 8px;
+  margin-left: 5px;
+  
+}
+.hr2 {
+ right: 0px;
+ width: 46%;
+ position: absolute;
+ top: 8px;
+}
+.hr {
+  margin-top: 10px;
+  position: relative;
+  width: 96%;
+  height: 10px;
+  left: 3px;
+}
+.create {
+  background-color: #42B728;
+  border: 1px solid #318b8b;
+  padding: 10px 20px;
+  color: white;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, 20%);
+}
+.hr a {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 80px);
+  text-decoration: none;
+  color: #4167B2;
+}
+input {
+  font-size: 25px;
+  outline: none;
+}
+.container {
+  margin: 0;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 15%;
+  background-color: #44494F;
+  font-weight: 400;
+}
+.eng {
+  margin: 5px 3px;
+  color: #b6b6b6;
+  font-weight: 500;
+}
+.bis {
+  margin: 5px 3px;
+  color: #9d9d9d;
+  font-weight: 450;
+}
+.port {
+  margin: 5px 3px;
+  color: #9d9d9d;
+  font-weight: 450;
+}
+.fbInc {
+  color: #ffffff ;
+  font-weight: 450;
+  background-color: #44494F;
+  padding: 18px 0px 3px 3px;
+}
+.fil {
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  margin: 5px 3px;
+  color: #9d9d9d;
+  font-weight: 450;
+}
+.esp {
+  position: absolute;
+  left: 50%;
+  top: 20px;
+  margin: 5px 3px;
+  color: #9d9d9d;
+  font-weight: 450;
+}
+.box {
+  font-size: 20px;
+  text-align-last: center;
+  position: absolute;
+  left: 51%;
+  top: 50px;
+  width: 20px;
+  height: 20px;
+  color: #9d9d9d;
+  border: 1px solid #9d9d9d;
+}
+span {
+  position: absolute;
+  border: 1px solid rgb(185,185,185);
+  color: rgb(185,185,185);
+  width: 15px;
+  height: 15px;
+  border-radius: 20em;
+  text-align: center;
+  top: 35%;
+  right: 5%;
+}
+.i {
+  width: 100%;
+  height: 40px;
+  position: relative;
+}
